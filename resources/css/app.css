@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --bs-orange: #ff7f0e;
+    --bs-white: #ffffff;
+    --bs-red: #ff0000;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #011224;
+}
+
+
+
+/*social*/
+
+
+.uname{
+    background-color: #011224;
+}
+
+/* Header Icons */
+/* @media (max-width: 577px) {
+    .header-social-icon {
+        display: none;
+    }
+} */
+/* 
+.width{
+    width: 800px;
+    align-items: center;
+} */
+
+/* Logo Header */
+
+
+/* Navbar */
+
+
+/* Custom styles for carousel */
+
+
+
+/* Find Program */
+
+/* About Us */
+
+/*events*/
+
+
+/* University Committee */
+
+
+/* Footer */
+
